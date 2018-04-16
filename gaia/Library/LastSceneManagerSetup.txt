@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Gaia/3rd Party Samplers/SpeedTree/Broadleaf/New Scene.unity
-  isLoaded: 1
-  isActive: 1
